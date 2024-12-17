@@ -8,7 +8,8 @@
 
 
 const urls = [
-	'https://hhming.moe',
-	'https://github.com/hms5232',
-	'https://gitlab.com/hms5232',
+	'http://robotics.csie.ncku.edu.tw/people.html',
+	'http://robotics.csie.ncku.edu.tw/index.html',
+	'http://robotics.csie.ncku.edu.tw/aboutRL.html',
+	'https://rog.asus.com/tw/laptops/rog-strix/rog-strix-scar-18-2024/',
 ];
